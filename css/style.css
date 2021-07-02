@@ -61,17 +61,103 @@ h1{
      background-image: url(https://via.placeholder.com/1510x10);
      padding: 5px;
  }
-
+/* 
 #con {
     position: relative;
 
-}
-#con-block {
-    position: absolute;
+} */
+/* #con-block {
+    position: relative;
     bottom: 20px;
     right: 20px;
-    /* background-color: black;
+    
+    background-color: black;
     color: white;
     padding-left: 20px;
-    padding-right: 20px; */
+    padding-right: 20px;
+  } */
+  #one-text{
+      position: absolute;
+
+  }
+  #tow-text{
+      position: absolute;
+  }
+  #con {
+      
+      /* border:  3px solid green; */
+      background-image: url(https://raw.githubusercontent.com/LTUC/amman-irbid-201d31/main/class-10/lab-a/lab-assets/list-bg.png);
+      width: 100%;
+     
+  }
+
+
+  #tow{
+      /* border: 2px solid green; */
+      float: right;
+      padding: 20px;
+      margin-right: 290px;
+  }
+  #one{
+      /* border: 2px solid red; */
+      float: left;
+      padding: 20px;
+      margin-left: 50px;
+  }
+
+  #line2 {
+	/* border: 2px solid green; */
+padding: 5px;
+
+  }
+  #p1 {
+    color: grey;
+      font-weight:lighter
+  }
+
+  #last1 {
+      width: 7%;
+      height: 7%;
+  }
+
+  #last1 h3  {
+      
+      /* border:2px solid red ; */
+      margin-top: -90px;
+      margin-right: -400px;
+      text-align:center;
+      position: 30px;
+      margin-left: -80px;
+     
+
+  }
+  #last1 p {
+    /* border:2px solid red ; */
+  float: right;
+ margin-right: -500px;
+ margin-top: -20px;
+  
+  }
+  #botom.absolute{
+    position: absolute;
+    bottom: 10px;
+    width: 50%;
+    border: 3px solid #8AC007;
+  }
+
+  footer hr {
+      margin-top: 100px;
+      padding: 1px;
+  }
+  footer img {
+    display:inline-block;
+ margin-left: 700px;
+ margin-top: -30px;
+ background-color: silver;
+  }
+  footer p {
+      margin-left: -35px;
+      text-align: center;
+      
+    m
   }
